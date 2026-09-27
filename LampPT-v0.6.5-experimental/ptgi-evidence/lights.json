@@ -1,0 +1,30 @@
+{
+  "checks": {
+    "unlit world emits zero energy": true,
+    "area emitter lights receiver": {
+      "NEE": [
+        0.10011496394872665,
+        0.045051589608192444,
+        0.010011469945311546
+      ],
+      "path": [
+        0.10081692039966583,
+        0.045367591083049774,
+        0.010081680491566658
+      ]
+    },
+    "warm source color survives transport": true,
+    "slab blocks the area light": 0.0,
+    "offscreen emitter appears in reflection": [
+      0.23465533554553986,
+      1.5252437591552734,
+      2.346552848815918
+    ],
+    "dark midpoint does not delete luminous artwork": [
+      0.03721058368682861,
+      0.016744768247008324,
+      0.0037210595328360796
+    ]
+  },
+  "all_passed": true
+}

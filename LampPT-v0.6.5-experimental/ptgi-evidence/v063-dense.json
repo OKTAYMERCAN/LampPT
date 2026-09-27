@@ -1,0 +1,14 @@
+{
+  "release": "v063",
+  "triangles": 178272,
+  "build_dispatches": 49,
+  "complete_daylight_mean": 0.6042343974113464,
+  "occluded_max": 0.0,
+  "overflow_daylight_mean": 0.6042343974113464,
+  "overflow_occluded_max": 0.0,
+  "software_build_ms": 138.70102100008808,
+  "software_first_draw_ms": 7414.655073999938,
+  "software_warm_draw_median_ms": 3.9827830000831455,
+  "timing_scope": "Mesa CPU software renderer; not GPU/Minecraft FPS",
+  "all_passed": true
+}

@@ -1,0 +1,13 @@
+{
+  "checks": {
+    "half-resolution tilted plane (64, 64)": 1.839552235916031e-05,
+    "unsnapped negative control (64, 64)": 0.022440025136203356,
+    "half-resolution tilted plane (127, 75)": 1.4698708599603094e-05,
+    "unsnapped negative control (127, 75)": 0.018457311322324088,
+    "history isolation mode 1 marker -4.0": 9.0,
+    "history output sign mode 1 marker -4.0": -4.0,
+    "history isolation mode 1 marker 4.0": 1.0,
+    "history output sign mode 1 marker 4.0": -4.0
+  },
+  "all_passed": true
+}

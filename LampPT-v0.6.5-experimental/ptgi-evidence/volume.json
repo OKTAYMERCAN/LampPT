@@ -1,0 +1,12 @@
+{
+  "checks": {
+    "unlit participating medium stays black": 0.0,
+    "off-axis lamp lights participating medium": [
+      0.04086581617593765,
+      0.04086581617593765,
+      0.04086581617593765
+    ],
+    "scattering switch removes medium light paths": 0.0
+  },
+  "all_passed": true
+}

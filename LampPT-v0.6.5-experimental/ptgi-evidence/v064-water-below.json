@@ -1,0 +1,22 @@
+{
+  "mean_display_rgb": [
+    0.16837835311889648,
+    0.24532635509967804,
+    0.29855185747146606
+  ],
+  "mean_linear_rgb": [
+    0.03633647784590721,
+    0.05737754702568054,
+    0.07433244585990906
+  ],
+  "mean_history_age": 32.0,
+  "fraction_visible": 1.0,
+  "finite": true,
+  "frames": 32,
+  "resolution": [
+    193,
+    113
+  ],
+  "scope": "Synthetic Mesa render, not Minecraft",
+  "all_passed": true
+}

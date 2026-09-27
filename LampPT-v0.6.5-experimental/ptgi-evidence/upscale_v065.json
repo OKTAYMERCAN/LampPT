@@ -1,0 +1,99 @@
+{
+  "all_passed": true,
+  "checks": {
+    "constant texture 33": {
+      "max_error": 0.0002521714032335254,
+      "transport_size": [
+        41,
+        24
+      ]
+    },
+    "depth edge isolation 33": 0.0002521714032335254,
+    "smooth-field reconstruction 33": {
+      "fast_rmse": 0.0011483925886680358,
+      "detail_rmse": 0.00014713057393476103
+    },
+    "constant texture 40": {
+      "max_error": 0.0002521714032335254,
+      "transport_size": [
+        50,
+        30
+      ]
+    },
+    "depth edge isolation 40": 0.0002521714032335254,
+    "smooth-field reconstruction 40": {
+      "fast_rmse": 0.0008336420008738003,
+      "detail_rmse": 0.00016932001637694693
+    },
+    "constant texture 50": {
+      "max_error": 0.0002521714032335254,
+      "transport_size": [
+        63,
+        37
+      ]
+    },
+    "depth edge isolation 50": 0.0002521714032335254,
+    "smooth-field reconstruction 50": {
+      "fast_rmse": 0.0004458100207056015,
+      "detail_rmse": 0.00012820996964960307
+    },
+    "constant texture 59": {
+      "max_error": 0.0002521714032335254,
+      "transport_size": [
+        74,
+        44
+      ]
+    },
+    "depth edge isolation 59": 0.0002521714032335254,
+    "smooth-field reconstruction 59": {
+      "fast_rmse": 0.0003944263912975529,
+      "detail_rmse": 0.00011942130270388479
+    },
+    "constant texture 67": {
+      "max_error": 0.0002521714032335254,
+      "transport_size": [
+        85,
+        50
+      ]
+    },
+    "depth edge isolation 67": 0.0002521714032335254,
+    "smooth-field reconstruction 67": {
+      "fast_rmse": 0.00035901567964538665,
+      "detail_rmse": 0.00012038616620360731
+    },
+    "constant texture 77": {
+      "max_error": 0.0002521714032335254,
+      "transport_size": [
+        97,
+        57
+      ]
+    },
+    "depth edge isolation 77": 0.0002521714032335254,
+    "smooth-field reconstruction 77": {
+      "fast_rmse": 0.00029782924930948397,
+      "detail_rmse": 0.00011962660666080916
+    },
+    "constant texture 100": {
+      "max_error": 0.0002521714032335254,
+      "transport_size": [
+        127,
+        75
+      ]
+    },
+    "depth edge isolation 100": 0.0002521714032335254,
+    "smooth-field reconstruction 100": {
+      "fast_rmse": 0.00011975404673920709,
+      "detail_rmse": 0.00011975404673920709
+    },
+    "adaptive sharpen changes signal": 0.005126953125,
+    "sharpen remains in signal bounds": [
+      0.0699462890625,
+      0.4619140625
+    ],
+    "noise guard suppresses sharpening": {
+      "clean_delta": 0.005126953125,
+      "noisy_delta": 0.000244140625
+    }
+  },
+  "scope": "Actual Mesa GLSL on analytic input fields; not Minecraft"
+}

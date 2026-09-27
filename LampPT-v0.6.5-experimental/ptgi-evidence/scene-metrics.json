@@ -1,0 +1,10 @@
+{
+  "all_passed": true,
+  "final_controls_mean_difference": 0.01720269024372101,
+  "resolution": [
+    193,
+    113
+  ],
+  "frames": 16,
+  "renderer": "Synthetic Mesa GL, not Minecraft"
+}

@@ -1,0 +1,29 @@
+{
+  "checks": {
+    "white furnace (0.8, 0.04)": [
+      0.6897541880607605,
+      0.6897541880607605,
+      0.6897541880607605
+    ],
+    "white furnace (0.2, 0.04)": [
+      0.9979082942008972,
+      0.9979082942008972,
+      0.9979082942008972
+    ],
+    "white furnace (0.2, -1.0)": [
+      0.758377194404602,
+      0.4740253686904907,
+      0.1896091103553772
+    ],
+    "metal spectral energy": true,
+    "dielectric Fresnel matches analytic reference": 2.951878514956263e-07,
+    "Snell transmission direction": [
+      0.3333187699317932,
+      -0.9429996013641357,
+      3.738202167369309e-06
+    ],
+    "Fresnel event frequency": 0.04241943359375,
+    "total internal reflection": 0.0
+  },
+  "all_passed": true
+}

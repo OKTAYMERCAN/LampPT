@@ -1,0 +1,45 @@
+{
+  "checks": {
+    "unoccluded sunlight has positive energy": [
+      0.6621378660202026,
+      0.6145954132080078,
+      0.5457594990730286
+    ],
+    "diffuse multi-bounce color transport": {
+      "one_event": [
+        0.5077143311500549,
+        0.5077143311500549,
+        0.5077143311500549
+      ],
+      "four_events": [
+        0.7001964449882507,
+        0.5136593580245972,
+        0.5135339498519897
+      ]
+    },
+    "sun reaches underwater receiver through traced refraction": [
+      0.6463232636451721,
+      0.5997844338417053,
+      0.5325016975402832
+    ],
+    "wave normals change refractive light paths": {
+      "flat": [
+        0.6463232636451721,
+        0.5997844338417053,
+        0.5325016975402832
+      ],
+      "waves": [
+        0.6343084573745728,
+        0.5886377096176147,
+        0.5226694941520691
+      ],
+      "max_difference": 1.620959997177124
+    },
+    "opaque replacement closes underwater light path": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "all_passed": true
+}

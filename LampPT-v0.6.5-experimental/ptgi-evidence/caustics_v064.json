@@ -1,0 +1,30 @@
+{
+  "all_passed": true,
+  "checks": {
+    "wave guide solves Snell at captured surface": {
+      "fraction_with_direction_error_below_0.005": 1.0,
+      "median_error": 1.564373235396488e-07
+    },
+    "wave curvature focuses sunlight spatially": {
+      "wave_CV": 0.38595104217529297,
+      "flat_CV": 0.08415111899375916,
+      "wave_mean": [
+        0.634350597858429,
+        0.5886775255203247,
+        0.5227048993110657
+      ],
+      "flat_mean": [
+        0.628667950630188,
+        0.5834060311317444,
+        0.5180276036262512
+      ]
+    },
+    "focusing redistributes energy without isolated blowouts": {
+      "wave_to_flat_mean": 1.0090391635894775,
+      "peak_to_mean": 2.8611958026885986
+    },
+    "caustic switch removes focused transport": 0.0,
+    "opaque replacement blocks caustic light": 0.0
+  },
+  "renderer": "Mesa llvmpipe OpenGL 4.5; not Minecraft"
+}

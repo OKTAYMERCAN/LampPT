@@ -1,0 +1,19 @@
+{
+  "all_passed": true,
+  "mean_display_rgb": [
+    0.7035179734230042,
+    0.7688814401626587,
+    0.7110817432403564
+  ],
+  "mean_linear_rgb": [
+    0.380261093378067,
+    0.4801984131336212,
+    0.538038969039917
+  ],
+  "frames": 32,
+  "resolution": [
+    257,
+    145
+  ],
+  "scope": "Synthetic Mesa whole-pipeline render, not Minecraft. Default Med cloud settings; wind frozen."
+}

@@ -1,0 +1,57 @@
+{
+  "checks": {
+    "all far triangles captured": 1980,
+    "stable radix keys sorted across workgroups": true,
+    "sort is a permutation of captured triangles": true,
+    "triangle reverse index matches leaf position": true,
+    "root bounds include near and distant geometry": true,
+    "BVH distances agree with brute-force reference": 0.0,
+    "rays starting outside old voxel grid hit far terrain": 91,
+    "far alpha holes remain open": {
+      "hole": [
+        0.0,
+        256.0,
+        1.0,
+        0.0
+      ],
+      "solid": [
+        1.0,
+        9.800003051757812,
+        1.0,
+        0.0
+      ]
+    },
+    "origin outside capture still intersects retained terrain": [
+      1.0,
+      40.19999694824219,
+      1.0,
+      0.0
+    ],
+    "overflow does not create a global black occluder": [
+      0.0,
+      1.0,
+      1.0,
+      256.0
+    ],
+    "traversal budget exhaustion is bounded and opaque": [
+      1.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    "separate sun sampling removes binary sparkle": 4.02624937123619e-05,
+    "far colored area light preserves near-scene radiance": {
+      "near": [
+        0.10011496394872665,
+        0.045051589608192444,
+        0.010011469945311546
+      ],
+      "far": [
+        0.10011497139930725,
+        0.04505158215761185,
+        0.010011470876634121
+      ]
+    }
+  },
+  "all_passed": true
+}

@@ -1,0 +1,21 @@
+{
+  "label": "v064-50",
+  "scale": 50,
+  "display": [
+    257,
+    145
+  ],
+  "median_draw_ms_by_stage": {
+    "composite1": 45.378629,
+    "composite2": 6.400404,
+    "composite3": 3.596713,
+    "composite4": 5.008561,
+    "composite5": 5.577779,
+    "composite6": 1.257326
+  },
+  "median_composite_draw_ms": 69.000271,
+  "frames_measured": 9,
+  "renderer": "llvmpipe (LLVM 20.1.2, 256 bits)",
+  "scope": "GL_TIME_ELAPSED software-renderer draws only. Excludes geometry capture/BVH, allocation, transfers and Minecraft. Not GPU-game FPS.",
+  "finite_image": true
+}

@@ -1,0 +1,48 @@
+{
+  "all_passed": true,
+  "checks": {
+    "HG mean cosine equals anisotropy": 0.5912985801696777,
+    "HG samples finite and unit length": 0.795677125453949,
+    "sampled free flight matches Beer transmittance": {
+      "quadrature_T": 0.204243004322052,
+      "MC_survival": 0.2015380859375
+    },
+    "density is world anchored": 0.0,
+    "medium quadrature converges": {
+      "64": 0.204243004322052,
+      "128": 0.20424282550811768
+    },
+    "cloud toggle removes extinction and collisions": [
+      1.0,
+      0.0
+    ],
+    "volume master disables clouds": true,
+    "ceiling dimensions have no cloud layer": true,
+    "primary emitter is attenuated once by clouds": {
+      "actual": 4.8369140625,
+      "Beer": 4.901832103729248
+    },
+    "cloud scattering changes actual camera transport": {
+      "mean_difference": 0.337898850440979,
+      "cloud_mean": [
+        0.5874177813529968,
+        0.6845104694366455,
+        0.8426563143730164
+      ]
+    },
+    "cloud medium is visible to reflected rays": {
+      "cloud": [
+        0.42314884066581726,
+        0.5209069848060608,
+        0.6895360946655273
+      ],
+      "clear": [
+        0.08977431803941727,
+        0.23193036019802094,
+        0.4849424362182617
+      ]
+    },
+    "cloud shadows never bypass opaque occluders": 0.0
+  },
+  "renderer": "Mesa llvmpipe OpenGL 4.5; not Minecraft"
+}

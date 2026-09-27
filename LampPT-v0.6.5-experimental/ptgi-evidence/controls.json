@@ -1,0 +1,89 @@
+{
+  "checks": {
+    "GI control removes color bounce and retains direct light": {
+      "on": [
+        0.7001964449882507,
+        0.5136593580245972,
+        0.5135339498519897
+      ],
+      "off": [
+        0.5192379355430603,
+        0.5080519914627075,
+        0.5080438256263733
+      ]
+    },
+    "reflection control removes offscreen mirror contribution": {
+      "on": [
+        0.23465533554553986,
+        1.5252437591552734,
+        2.346552848815918
+      ],
+      "off": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "refraction toggle selects Snell or straight transmission": {
+      "bent": [
+        0.33333131670951843,
+        -0.942750871181488,
+        1.7969003920370596e-06
+      ],
+      "straight": [
+        0.5,
+        -0.8661419749259949,
+        0.0
+      ]
+    },
+    "water toggle disables camera medium attenuation": {
+      "on": [
+        13.32027530670166,
+        16.556724548339844,
+        17.994359970092773
+      ],
+      "off": [
+        24.0,
+        24.0,
+        24.0
+      ]
+    },
+    "glass control removes dielectric tint and Fresnel": {
+      "on": [
+        22.6057071685791,
+        1.2758409976959229,
+        0.5205472111701965
+      ],
+      "off": [
+        24.0,
+        24.0,
+        24.0
+      ]
+    },
+    "direct shadow control changes occluded lamp visibility": {
+      "on": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "off": [
+        0.100293830037117,
+        0.04513230174779892,
+        0.010029397904872894
+      ]
+    },
+    "caustic toggle removes refractive receiver paths": {
+      "on": [
+        0.6467955708503723,
+        0.6002277731895447,
+        0.5329587459564209
+      ],
+      "off": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "all_passed": true
+}

@@ -1,0 +1,29 @@
+{
+  "label": "v065-40-fast",
+  "scale": 40,
+  "display": [
+    257,
+    145
+  ],
+  "option_overrides": {
+    "GEOMETRY_BUDGET": 65536,
+    "shadowMapResolution": 128,
+    "PT_RESOLUTION": 40,
+    "DITHER": 0,
+    "CLOUD_WIND_SPEED": "0.0",
+    "PT_UPSCALE_FILTER": 0
+  },
+  "median_draw_ms_by_stage": {
+    "composite1": 45.740487,
+    "composite2": 3.213141,
+    "composite3": 1.782191,
+    "composite4": 1.655527,
+    "composite5": 1.667396,
+    "composite6": 0.693607
+  },
+  "median_composite_draw_ms": 55.349595,
+  "frames_measured": 9,
+  "renderer": "llvmpipe (LLVM 20.1.2, 256 bits)",
+  "scope": "GL_TIME_ELAPSED software-renderer draws only. Excludes geometry capture/BVH, allocation, transfers and Minecraft. Not GPU-game FPS.",
+  "finite_image": true
+}

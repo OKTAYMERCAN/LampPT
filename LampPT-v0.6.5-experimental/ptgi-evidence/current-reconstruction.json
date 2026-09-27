@@ -1,0 +1,18 @@
+{
+  "texture_max_error": 0.000670442930760351,
+  "emission_max_error": 0.00043418924229754463,
+  "stationary_drift_(96, 64)": 0.0,
+  "stationary_drift_(127, 75)": 0.0,
+  "noisy_raw_rmse": 0.4507573992460148,
+  "filtered_rmse": 0.048578181008012936,
+  "noise_rmse_ratio": 0.10777012443782401,
+  "first_frame_rmse": 0.1578836200641502,
+  "disocclusion_max_error": 0.0,
+  "disocclusion_history_age": 1.0,
+  "full_resolution_texture_max_error": 0.000670442930760351,
+  "spatial_toggle_difference": 1.5869140625,
+  "comparison_role": "corrected implementation",
+  "all_passed": true,
+  "renderer": "synthetic Mesa OpenGL; not Minecraft",
+  "release": "current"
+}

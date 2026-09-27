@@ -1,0 +1,12 @@
+{
+  "checks": {
+    "source sampler retains both hemispheres": 0.978729248046875,
+    "selected and MIS source PDFs agree": 2.2351741790771484e-08,
+    "source probabilities match per-triangle frequencies": {
+      "max_error": 0.004388138651847839,
+      "represented_triangles": 24
+    },
+    "nonzero PDF preserves all triangle support": true
+  },
+  "all_passed": true
+}

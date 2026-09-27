@@ -1,0 +1,12 @@
+{
+  "steady_rare_energy_retention": 0.9701070614114758,
+  "remaining_after_switch_off": {
+    "1": 0.9672908186912537,
+    "8": 0.14562039077281952,
+    "16": 0.0078068748116493225,
+    "32": 0.0004391910624690354
+  },
+  "changed_material_history_age": 1.0,
+  "all_passed": true,
+  "scope": "Synthetic temporal GLSL; not in-game motion validation"
+}
