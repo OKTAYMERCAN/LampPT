@@ -50,6 +50,8 @@ No in-game FPS, driver stability or user-scene appearance has been measured.
 See `TEST_RESULTS.md` for reproducible checks and limits; images in the tests
 folder are synthetic shader renders, not Minecraft screenshots.
 
+## Notice
+
 LampPT - Minecraft shaderpack
 Copyright (C) 2026 Oktay Mercan
 
