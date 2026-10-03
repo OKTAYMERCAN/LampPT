@@ -50,5 +50,30 @@ No in-game FPS, driver stability or user-scene appearance has been measured.
 See `TEST_RESULTS.md` for reproducible checks and limits; images in the tests
 folder are synthetic shader renders, not Minecraft screenshots.
 
+LampPT - Minecraft shaderpack
+Copyright (C) 2026 Oktay Mercan
+
+Licensed under the Coral Reef License, version 1.0.
+The full text of the license is in the LICENSE file.
+
+Official Source: https://github.com/OKTAYMERCAN/LampPT
+  Any other official download pages (such as Modrinth or CurseForge)
+  are those listed as official in the README at the Official Source.
+Contact: oktaylamacera@gmail.com
+  If the Official Source is ever unavailable, you can ask for a copy
+  at this address.
+Governing law and courts: Republic of Türkiye
+
+Credit example:
+  Shaders: LampPT by Oktay Mercan - https://github.com/OKTAYMERCAN/LampPT
+
+Modpacks: including a copy of LampPT in a modpack requires written
+permission from Oktay Mercan (section 11). A modpack that only refers
+to LampPT, so that players download it from an official page, needs no
+permission, but must give Credit and must not earn platform rewards or
+revenue (sections 3 and 11).
+
+This work comes with ABSOLUTELY NO WARRANTY.
+
 ---
 Contains AI-generated code, assets and text. Made with AI.
