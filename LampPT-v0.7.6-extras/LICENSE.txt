@@ -1,0 +1,721 @@
+                          CORAL REEF LICENSE
+                     Version 1.0, 3 October 2026
+
+ Copyright (C) 2026 Oktay Mercan
+ Parts of this license text are adapted, with permission, from a
+ license text copyright (C) 2007 Free Software Foundation, Inc.
+
+ Everyone is permitted to copy and distribute verbatim copies of this
+ license document, but changing it is not allowed. A license based on
+ this one must not be called the "Coral Reef License".
+
+                              Summary
+
+  This summary is not part of the license; it only explains it.
+
+  You may use, study and change the Program for free. You may show it
+in videos, streams and screenshots and earn money from that content, as
+long as you give credit. You may share changed versions, but only for
+free, only under this same license, with their complete source code
+open to everyone, with credit, and under a new name. You may not sell
+the Program or any version of it, or earn money from distributing it,
+and copies may only be shared from their official places, unless the
+Program has been abandoned.
+
+                         TERMS AND CONDITIONS
+
+  0. Definitions.
+
+  "This License" refers to version 1.0 of the Coral Reef License.
+
+  "Copyright" also means copyright-like laws that apply to other kinds
+of works, such as semiconductor masks.
+
+  "The Program" refers to any copyrightable work licensed under this
+License.  Each licensee is addressed as "you".  "Licensees" and
+"recipients" may be individuals or organizations.
+
+  "The Licensor" means the copyright holder or holders who first
+released the Program under this License, as named in the Program's
+License Notice.
+
+  The "License Notice" is the notice that the Licensor attaches to the
+Program as described in "How to Apply These Terms", naming the
+Program, the Licensor, the Official Source, and any Additional
+Permissions.
+
+  The "Official Source" means the places named in the License Notice
+as official sources of the Program, and any download page that those
+places name as official.
+
+  To "modify" a work means to copy from or adapt all or part of the
+work in a fashion requiring copyright permission, other than the making
+of an exact copy.  The resulting work is called a "modified version"
+of the earlier work or a work "based on" the earlier work.  A work that
+copies any part of the Program's code or assets is based on the
+Program.
+
+  A "covered work" means either the unmodified Program or a work based
+on the Program.
+
+  A modified version's "Publication Place" means the places where its
+author publishes it, as named in the notices required by section 9(b).
+
+  To "propagate" a work means to do anything with it that, without
+permission, would make you directly or secondarily liable for
+infringement under applicable copyright law, except executing it on a
+computer or modifying a private copy.  Propagation includes copying,
+distribution (with or without modification), making available to the
+public, and in some countries other activities as well.
+
+  To "convey" a work means any kind of propagation that enables other
+parties to make or receive copies.  Mere interaction with a user
+through a computer network, with no transfer of a copy, is not
+conveying.
+
+  A "Commercial Purpose" is any purpose primarily intended for or
+directed toward commercial advantage or monetary compensation.
+"Noncommercial" means not for a Commercial Purpose.
+
+  "Showcase Content" means recordings, videos, live streams, short
+videos, screenshots, images, reviews, tutorials and similar media that
+show a covered work, or what it produces, in use.
+
+  A "Bundle" is any modpack, collection, compilation, distribution,
+package or similar set of works that includes a copy of a covered work
+together with other works, in order to distribute them together, or
+that refers to a covered work so that it is downloaded or installed
+together with them.
+
+  An interactive user interface displays "Appropriate Legal Notices"
+to the extent that it includes a convenient and prominently visible
+feature that (1) displays an appropriate copyright notice and Credit,
+and (2) tells the user that there is no warranty for the work (except
+to the extent that warranties are provided), that licensees may convey
+the work under this License, and how to view a copy of this License.
+If the interface presents a list of user commands or options, such as
+a menu, a prominent item in the list meets this criterion.
+
+  1. Source Code.
+
+  The "source code" for a work means the preferred form of the work
+for making modifications to it.  "Object code" means any non-source
+form of a work.
+
+  A "Standard Interface" means an interface that either is an official
+standard defined by a recognized standards body, or, in the case of
+interfaces specified for a particular programming language, one that
+is widely used among developers working in that language.
+
+  The "System Libraries" of an executable work include anything, other
+than the work as a whole, that (a) is included in the normal form of
+packaging a Major Component, but which is not part of that Major
+Component, and (b) serves only to enable use of the work with that
+Major Component, or to implement a Standard Interface for which an
+implementation is available to the public in source code form.  A
+"Major Component", in this context, means a major essential component
+(kernel, window system, and so on) of the specific operating system
+(if any) on which the executable work runs, or a compiler used to
+produce the work, or an object code interpreter used to run it.
+
+  The "Corresponding Source" for a work in object code form means all
+the source code needed to generate, install, and (for an executable
+work) run the object code and to modify the work, including scripts to
+control those activities.  However, it does not include the work's
+System Libraries, or general-purpose tools or generally available free
+programs which are used unmodified in performing those activities but
+which are not part of the work.  For example, Corresponding Source
+includes interface definition files associated with source files for
+the work, and the source code for shared libraries and dynamically
+linked subprograms that the work is specifically designed to require,
+such as by intimate data communication or control flow between those
+subprograms and other parts of the work.
+
+  The Corresponding Source need not include anything that users can
+regenerate automatically from other parts of the Corresponding Source.
+
+  The Corresponding Source for a work in source code form is that same
+work.
+
+  2. Basic Permissions.
+
+  All rights granted under this License are granted for the term of
+copyright on the Program, and are irrevocable provided the stated
+conditions are met.  This License explicitly affirms your permission to
+get the Program from the Official Source and to run it for any
+Noncommercial purpose, and to run it to make Showcase Content under
+section 4.  The output from running a covered work is covered by this
+License only if the output, given its content, constitutes a covered
+work, except that publishing Showcase Content is subject to section 4.
+This License acknowledges your rights of fair use or other equivalent,
+as provided by copyright law.
+
+  You may make, modify, run and propagate covered works that you do
+not convey, for any Noncommercial purpose, without other conditions so
+long as your license otherwise remains in force.  You may convey
+covered works to others for the sole purpose of having them make
+modifications exclusively for you, or provide you with facilities for
+running those works, provided that you comply with the terms of this
+License in conveying all material for which you do not control
+copyright.  Those thus making or running the covered works for you must
+do so exclusively on your behalf, under your direction and control, on
+terms that prohibit them from making any copies of your copyrighted
+material outside their relationship with you.
+
+  Conveying under any other circumstances is permitted solely under
+the conditions stated below.  Sublicensing is not allowed; section 15
+makes it unnecessary.
+
+  3. Noncommercial Use.
+
+  Every right granted under this License is granted for Noncommercial
+purposes only, except as section 4 expressly allows.  In particular,
+you may not, with any covered work:
+
+    a) sell, rent, lease or license it for a fee, or charge any price
+    for a copy of it, for access to it, or for the right to download,
+    install or use it;
+
+    b) make it, or any version, feature, update or early access of it,
+    available only to people who pay, including through paid
+    memberships, subscriptions, donation tiers or rewards;
+
+    c) convey it, or links to it, through link-monetization services
+    that make people view advertisements or wait before they can get
+    it;
+
+    d) include it in any product, service or Bundle that is sold or
+    otherwise charged for;
+
+    e) earn money, rewards, points or any other compensation from
+    conveying it, or from people downloading, installing or getting
+    it, including through the reward, revenue-sharing or monetization
+    programs of the platforms or sites where it is published, and
+    through advertising on pages from which it is downloaded; or
+
+    f) use it for any other Commercial Purpose.
+
+  A page that only links to an Official Source or a Publication Place,
+such as a list or a review, does not convey the covered work, and item
+e) does not apply to it.  Item c) still applies to its links.
+
+  You may accept voluntary donations for your work on a covered work,
+as long as every version you offer is available to everyone free of
+charge, donating gives no access, feature or priority that others do
+not get, and the donations are not tied to downloads.
+
+  These limits apply to licensees.  They do not limit the Licensor's
+own rights in the Program.
+
+  Personal use for study, research, experiment, testing, private
+entertainment, hobby projects or amateur pursuits, without any
+anticipated commercial application, is Noncommercial.  Use by any
+charitable organization, educational institution, public research
+organization, public safety or health organization, environmental
+protection organization or government institution is Noncommercial,
+regardless of the source of its funding.
+
+  4. Showcase Content.
+
+  Notwithstanding section 3, you may run any covered work you are
+allowed to use in order to make Showcase Content, and you may publish,
+perform and earn money from that Showcase Content, including through
+advertising, sponsorships, subscriptions, memberships, donations, tips,
+platform revenue sharing and charging for access to the Showcase
+Content itself, provided that you give Credit (section 5) as follows:
+
+    a) for a video or other recording, in its description, or clearly
+    on screen;
+
+    b) for a live stream, in the stream description, in a clearly
+    visible channel or stream information panel, or clearly on screen
+    while the covered work is shown; a recording of the stream that
+    you publish later must also give Credit;
+
+    c) for an image or post, in its caption or description; and
+
+    d) where a platform offers no usable description, in a pinned
+    comment or a clearly visible link on your profile.
+
+  Showcase Content is not a copy of the covered work, and making or
+publishing it is not conveying the covered work.  This section does not
+permit you to convey copies of a covered work, to charge for a covered
+work itself, or to use Showcase Content as a way of doing either.
+Money or rewards earned from conveying a covered work, or from people
+getting it, are never Showcase Content income, even if the covered work
+is shown in a video or image on the same page.
+
+  5. Credit.
+
+  Where this License requires "Credit", you must state, in a way that
+is reasonably visible to the people the requirement is meant to reach:
+
+    a) the name of the Program, as given in the License Notice;
+
+    b) the name of the Licensor; and
+
+    c) a link to the Official Source.
+
+  For a modified version, Credit must also name the modified version
+and say that it is based on the Program, and may name its own authors.
+For example:
+
+    Program Name by Licensor Name - https://example.com/official
+    Modified Name by Its Author, based on Program Name by Licensor
+    Name - https://example.com/official
+
+  Credit must not suggest that the Licensor or any contributor endorses
+you or your use, unless they have said so in writing.
+
+  6. Names and Marks.
+
+  This License grants no rights under trademark law, and no right to
+use the names, logos or marks of the Program, the Licensor or any
+contributor, except as needed to give Credit and to describe truthfully
+where a work comes from.
+
+  A modified version that you convey must use a name that is clearly
+different from the name of the Program and from the name of any
+version it is based on.  You must not present a modified version, or
+yourself, as the original, as official, or as approved by the Licensor
+or any contributor, without their written permission.
+
+  7. Protecting Users' Legal Rights From Anti-Circumvention Law.
+
+  No covered work shall be deemed part of an effective technological
+measure under any applicable law fulfilling obligations under article
+11 of the WIPO copyright treaty adopted on 20 December 1996, or similar
+laws prohibiting or restricting circumvention of such measures.
+
+  When you convey a covered work, you waive any legal power to forbid
+circumvention of technological measures to the extent such
+circumvention is effected by exercising rights under this License with
+respect to the covered work, and you disclaim any intention to limit
+operation or modification of the work as a means of enforcing, against
+the work's users, your or third parties' legal rights to forbid
+circumvention of technological measures.
+
+  8. Sharing Exact Copies.
+
+  You may share an exact copy of the Program only by directing people
+to the Official Source, and an exact copy of a modified version only by
+directing people to its Publication Place.  You may link to those
+places freely, from any place, subject to section 3.  You may not host,
+mirror or upload exact copies anywhere else, unless an Additional
+Permission, section 11, or the abandonment rules below allow it.
+
+  Copies made only through the built-in features of the service that
+hosts the Official Source or a Publication Place (for example, forking
+a repository on the same platform) do not violate this section, but
+anything you convey from such a copy is subject to this License.
+
+  A version of a covered work is "abandoned" when both:
+
+    a) no copy of it has been available to the public for download from
+    its Official Source (or, for a modified version, its Publication
+    Place) for at least 12 consecutive months, even if those places
+    still exist; and
+
+    b) the Licensor (or, for a modified version, its author) has not
+    answered, within 90 days, a written request sent to the latest
+    contact address they published, or has published no contact
+    address.
+
+  While a version is abandoned, anyone may host and convey exact copies
+of its last released form, provided that they:
+
+    a) charge nothing and earn nothing from it, as required by section
+    3;
+
+    b) offer its complete Corresponding Source, free of charge, in the
+    same place;
+
+    c) keep all notices intact and give Credit (section 5); and
+
+    d) state prominently that it is an archive copy of an abandoned
+    version, and not from its Official Source or Publication Place.
+
+  If the version stops being abandoned because a copy is again available
+for download from its Official Source or Publication Place, you must
+stop offering new copies under the abandonment rules within 30 days.
+Copies already conveyed are not affected.
+
+  Wherever you are allowed to convey exact copies, you must keep intact
+all copyright notices, the License Notice, all notices that this
+License and any Additional Permissions apply to the work, and all
+notices of the absence of any warranty; give all recipients a copy of
+this License; and follow section 3.
+
+  9. Conveying Modified Versions.
+
+  You may convey a work based on the Program, in the form of source
+code, or in object code form under section 10, provided that you meet
+all of these conditions:
+
+    a) The work must carry prominent notices stating that you modified
+    it, giving a relevant date, and stating that it is not the original
+    or official version of the Program.
+
+    b) The work must carry prominent notices stating that it is
+    released under this License and any Additional Permissions that
+    still apply to it, and naming its Publication Place.
+
+    c) You must license the entire work, as a whole, under this License
+    to anyone who comes into possession of a copy.  This License will
+    therefore apply, along with any applicable Additional Permissions,
+    to the whole of the work, and all its parts, regardless of how they
+    are packaged.  This License gives no permission to license the work
+    in any other way, but it does not invalidate such permission if you
+    have separately received it.
+
+    d) You must make the complete Corresponding Source of the entire
+    work available to the public, free of charge and under this
+    License, through a publicly accessible network server or other
+    readily accessible means where anyone can find and copy it, no
+    later than the time you first convey the work, and keep it
+    available for as long as you convey the work.
+
+    e) You must give Credit (section 5) on the main page or release page
+    of the work, and in a notice file or the Appropriate Legal Notices
+    within the work.
+
+    f) You must follow section 6, including giving the work a name that
+    is clearly different from the name of the Program.
+
+    g) You must keep intact all copyright notices, the License Notice,
+    and all notices of the absence of any warranty.
+
+    h) If the work has interactive user interfaces, each must display
+    Appropriate Legal Notices; however, if the Program has interactive
+    interfaces that do not display Appropriate Legal Notices, your work
+    need not make them do so.
+
+    i) You must follow section 3.
+
+  Conditions a), e) and f), and the duty in b) to name a Publication
+Place, do not apply to a copy hosted only through the built-in features
+described in section 8 (for example, a repository fork used to work on
+changes or to propose them to the Licensor), as long as you do not
+offer it as a separate release, download or project for others to use.
+
+  10. Conveying Non-Source Forms.
+
+  You may convey a covered work in object code form only under
+sections 8, 9 and 11, and only if you also make its complete
+Corresponding Source available as required by section 9(d), with clear
+directions next to the object code saying where to find it.  The
+Corresponding Source may be on a different server from the object code.
+Regardless of what server hosts the Corresponding Source, you remain
+obligated to ensure that it is available for as long as needed to
+satisfy these requirements.
+
+  A separable portion of the object code, whose source code is excluded
+from the Corresponding Source as a System Library, need not be included
+in conveying the object code work.
+
+  If you convey an object code work in, with, or specifically for use
+in a device made for personal, family or household use, you must also
+make available, along with the Corresponding Source, any methods,
+procedures, authorization keys or other information required to install
+and run modified versions of the work on that device, unless neither
+you nor any third party keeps the ability to install modified object
+code on it.
+
+  Corresponding Source and such installation information must be in a
+format that is publicly documented (and with an implementation
+available to the public in source code form), and must require no
+special password or key for unpacking, reading or copying.
+
+  11. Bundles and Aggregates.
+
+  You may include a copy of a covered work in a Bundle, and convey that
+Bundle, only if:
+
+    a) the Licensor has given prior written permission, or an
+    Additional Permission in the License Notice allows it;
+
+    b) the version you include is abandoned (section 8), and you
+    follow the abandonment rules; or
+
+    c) the Program is abandoned (section 8), and the version you
+    include is a modified version whose author has given written
+    permission.
+
+  When you do so, unless the permission says otherwise, you must give
+Credit in the Bundle's credits list, description page or manifest, and
+must follow section 3.
+
+  A Bundle that only refers to a covered work, so that each user gets
+the covered work from its Official Source or Publication Place, does
+not include a copy of it and needs no permission, but must still give
+Credit.
+
+  Unless the Licensor gives written permission, or an Additional
+Permission in the License Notice allows it, no Bundle may earn
+money, rewards, points or any other compensation from being downloaded,
+installed or used, including through the reward, revenue-sharing or
+monetization programs of the platforms or sites where it is published.
+
+  A compilation of a covered work with other separate and independent
+works, which are not by their nature extensions of the covered work,
+and which are not combined with it such as to form a larger work, in or
+on a volume of a storage or distribution medium, is called an
+"aggregate" if the compilation and its resulting copyright are not used
+to limit the access or legal rights of the compilation's users beyond
+what the individual works permit.  Inclusion of a covered work in an
+aggregate or a permitted Bundle does not cause this License to apply to
+the other parts of the aggregate or Bundle.
+
+  12. Additional Permissions and Third-Party Material.
+
+  "Additional Permissions" are terms that supplement the terms of this
+License by making exceptions from one or more of its conditions.  The
+Licensor may state Additional Permissions in the License Notice.
+Additional Permissions that are applicable to the entire Program shall
+be treated as though they were included in this License, to the extent
+that they are valid under applicable law.  If Additional Permissions
+apply only to part of the Program, that part may be used separately
+under those permissions, but the entire Program remains governed by
+this License without regard to the Additional Permissions.
+
+  When you convey a copy of a covered work, you may at your option
+remove any Additional Permissions from that copy, or from any part of
+it.  You may place Additional Permissions on material that you add to a
+covered work and for which you hold the copyright, but they apply only
+to that material.
+
+  Some parts of a covered work may come from third parties under their
+own licenses.  Such parts must be identified in the work, and their own
+licenses apply to them to the extent those licenses require.  You may
+add third-party material to a covered work only if its license allows
+it to be conveyed as part of the covered work under the conditions of
+this License.
+
+  13. Termination.
+
+  You may not propagate or modify a covered work except as expressly
+provided under this License.  Any attempt otherwise to propagate or
+modify it is void, and will automatically terminate your rights under
+this License (including any patent licenses granted under section 16).
+
+  However, if you cease all violation of this License, then your
+license from a particular copyright holder is reinstated (a)
+provisionally, unless and until the copyright holder explicitly and
+finally terminates your license, and (b) permanently, if the copyright
+holder fails to notify you of the violation by some reasonable means
+prior to 60 days after the cessation.
+
+  Moreover, your license from a particular copyright holder is
+reinstated permanently if the copyright holder notifies you of the
+violation by some reasonable means, this is the first time you have
+received notice of violation of this License (for any work) from that
+copyright holder, and you cure the violation prior to 30 days after
+your receipt of the notice.
+
+  Termination of your rights under this section does not terminate the
+licenses of parties who have received copies or rights from you under
+this License.  If your rights have been terminated and not permanently
+reinstated, you do not qualify to receive new licenses for the same
+material under section 15.
+
+  Termination under section 17 is permanent and is not reinstated
+under this section.
+
+  14. Acceptance Not Required for Having Copies.
+
+  You are not required to accept this License in order to receive a
+copy of the Program, or to run it for Noncommercial purposes other than
+making Showcase Content.  However, nothing other than this License
+grants you permission to propagate or modify any covered work, or to
+run it in order to make and publish Showcase Content.  These actions
+infringe copyright if you do not accept this License.  Therefore, by
+modifying or propagating a covered work, or by publishing Showcase
+Content, whether or not you earn money from it, you indicate your
+acceptance of this License to do so.
+
+  15. Automatic Licensing of Downstream Recipients.
+
+  Each time you convey a covered work, the recipient automatically
+receives a license from the original licensors, to run, modify and
+propagate that work, subject to this License.  You are not responsible
+for enforcing compliance by third parties with this License.
+
+  An "entity transaction" is a transaction transferring control of an
+organization, or substantially all assets of one, or subdividing an
+organization, or merging organizations.  If propagation of a covered
+work results from an entity transaction, each party to that transaction
+who receives a copy of the work also receives whatever licenses to the
+work the party's predecessor in interest had or could give under the
+previous paragraph, plus a right to possession of the Corresponding
+Source of the work from the predecessor in interest, if the predecessor
+has it or can get it with reasonable efforts.
+
+  You may not impose any further restrictions on the exercise of the
+rights granted or affirmed under this License.  For example, you may
+not impose a license fee, royalty, or other charge for exercise of
+rights granted under this License.
+
+  16. Patents.
+
+  A "contributor" is a copyright holder who authorizes use under this
+License of the Program or a work on which the Program is based.  The
+work thus licensed is called the contributor's "contributor version".
+
+  A contributor's "essential patent claims" are all patent claims owned
+or controlled by the contributor, whether already acquired or hereafter
+acquired, that would be infringed by some manner, permitted by this
+License, of making or using its contributor version, but do not include
+claims that would be infringed only as a consequence of further
+modification of the contributor version.  For purposes of this
+definition, "control" includes the right to grant patent sublicenses in
+a manner consistent with the requirements of this License.
+
+  Each contributor grants you a non-exclusive, worldwide, royalty-free
+patent license under the contributor's essential patent claims, to
+make, use, import and otherwise run, modify and propagate the contents
+of its contributor version, in the ways this License permits.
+
+  If, in connection with a single transaction or arrangement, you
+convey a covered work and grant a patent license to some of the
+parties receiving it, then the patent license you grant is
+automatically extended to all recipients of the covered work and works
+based on it.
+
+  Nothing in this License shall be construed as excluding or limiting
+any implied license or other defenses to infringement that may
+otherwise be available to you under applicable patent law.
+
+  17. Defense Against Infringement Claims.
+
+  If you, or any organization you control, initiate litigation
+(including a cross-claim or counterclaim in a lawsuit), or make any
+other written claim, alleging that a covered work, or any part of it,
+infringes any patent or copyright, then all rights granted to you under
+this License end permanently on the date the litigation is filed or the
+claim is made.  If an organization you work for does so, your rights
+end permanently for any work done on behalf of that organization.
+
+  This section does not apply to a claim that someone has violated this
+License, or to a claim made by the Licensor about the Licensor's own
+work.
+
+  18. No Surrender of Others' Freedom.
+
+  If conditions are imposed on you (whether by court order, agreement or
+otherwise) that contradict the conditions of this License, they do not
+excuse you from the conditions of this License.  If you cannot convey a
+covered work so as to satisfy simultaneously your obligations under
+this License and any other pertinent obligations, then as a consequence
+you may not convey it at all.
+
+  19. Contributions to the Licensor.
+
+  If you send the Licensor a contribution (such as a pull request,
+patch, code or asset) for inclusion in the Program, you grant the
+Licensor a perpetual, worldwide, non-exclusive, royalty-free license to
+use, modify and convey that contribution as part of the Program under
+this License, any later version of it, or any other terms the Licensor
+chooses for the Program.  You must only send contributions that you
+have the right to grant in this way.  This section does not apply to
+contributions that you clearly mark as not offered under it.
+
+  20. Revised Versions of this License.
+
+  Oktay Mercan, or a successor he publicly names, is the steward of
+this License and may publish revised and/or new versions of the Coral
+Reef License from time to time.  Such new versions will be similar in
+spirit to the present version, but may differ in detail to address new
+problems or concerns.
+
+  Each version is given a distinguishing version number.  A version of
+a Program is governed by the version of this License named in its
+License Notice.  If the License Notice says that a numbered version of
+the Coral Reef License "or any later version" applies, you may follow
+the terms of that numbered version or of any later version published by
+the steward.  A new version of this License never applies to a copy of
+a Program that was released before the new version, unless its License
+Notice says so.
+
+  Later license versions may give you additional or different
+permissions.  However, no additional obligations are imposed on any
+author or copyright holder as a result of your choosing to follow a
+later version.
+
+  21. Disclaimer of Warranty.
+
+  THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
+HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT
+WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE
+OF THE PROGRAM IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU
+ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+  22. Limitation of Liability.
+
+  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR
+CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,
+INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES
+ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT
+NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES
+SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE
+WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+  23. Interpretation.
+
+  If the disclaimer of warranty and limitation of liability provided
+above cannot be given local legal effect according to their terms,
+reviewing courts shall apply local law that most closely approximates
+an absolute waiver of all civil liability in connection with the
+Program.
+
+  If any other provision of this License is held to be unenforceable,
+it shall be enforced to the greatest extent possible, and the remaining
+provisions remain in effect.
+
+  The License Notice may name the law that governs this License for the
+Program, and the courts that hear disputes about it.
+
+                     END OF TERMS AND CONDITIONS
+
+                     How to Apply These Terms
+
+  To release your work under the Coral Reef License:
+
+    1. Put an unchanged copy of this License in a file named LICENSE
+    (or LICENSE.txt) at the top of your work.
+
+    2. Put your License Notice in a file named NOTICE (or NOTICE.txt)
+    next to it.  A clearly marked section of your README also works,
+    but a separate file is easier for others to keep intact.
+
+    3. Say in your README that the work is under the Coral Reef
+    License, and point to both files.
+
+    4. Give each source file at least its copyright line and a pointer
+    to the NOTICE file.
+
+  A License Notice looks like this:
+
+    <Program name> - <one line saying what it is>
+    Copyright (C) <year> <name of author>
+
+    Licensed under the Coral Reef License, version 1.0
+    [or (at your option) any later version].
+    The full text of the license is in the LICENSE file.
+
+    Official Source: <web address where the work can be downloaded>
+    Contact: <e-mail or other address>
+    [Governing law and courts: <country, city>]
+    [Additional Permissions: <optional exceptions you grant, such as
+     "You may include unmodified copies in modpacks without asking,
+     if you give Credit and the modpack is neither charged for nor
+     earns anything.">]
+
+    Credit example:
+      <Program name> by <name of author> - <Official Source address>
+
+    This work comes with ABSOLUTELY NO WARRANTY.

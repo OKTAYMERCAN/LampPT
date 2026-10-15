@@ -1,0 +1,9 @@
+{
+  "version": "0.7.6",
+  "changelog": "Secondary-image history for glass; compact texture-aware optical filtering; temporal sampling and luminance tone mapping.",
+  "changes": [
+    "Reduced optical trails and blur",
+    "Added temporal sample stratification",
+    "Added luminance-preserving tone mapping"
+  ]
+}
