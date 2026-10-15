@@ -1,7 +1,4 @@
 # LampPT
-This project Path Traced Global illimunation shaderpack for minecraft (Iris). Prof of Concept and Early alpha stage.
-
-# LampPT
 
 ![Platform](https://img.shields.io/badge/platform-Minecraft%20Java-darkgreen.svg)
 ![Loader](https://img.shields.io/badge/requires-Iris%20%2B%20Sodium-blue.svg)
