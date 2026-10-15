@@ -10,8 +10,31 @@ This project Path Traced Global illimunation shaderpack for minecraft (Iris). Pr
 
 This project Path Traced Global illimunation shaderpack for minecraft (Iris). Prof of Concept and Early alpha stage.
 
-I wanted to create my own shaderpack because the existing ones are either paid or locked behind paywalls or subscriptions, which is frustrating. I decided to make my own, but due to life circumstances, I didn't have the time or the necessary skills to do it from scratch. So I purchased a paid AI subscription (Claude Pro) and then started making LampPT to test how much the technology has advanced and what it's capable of, while also bringing my dream of a flawless shaderpack to life to share with the community.
+I wanted to create my own shaderpack because the existing ones are either paid or locked behind paywalls or subscriptions, which is frustrating. I decided to make my own, but due to life circumstances, I didn't have the time or the necessary skills to do it from scratch. So I purchased a paid AI subscription (Claude Pro - Opus 5.5) and then started making LampPT to test how much the technology has advanced and what it's capable of, while also bringing my dream shaderpack to life to share with the community.
 
+---
+
+## Coral Reef License (v1.0) - What You Can and Cannot Do (İts short sumarry check full license!)
+
+### What You Can Do (+)
+* **Free Use:** You can run, study, and change the Program for free, and use it for personal study, research, experiment, testing, private entertainment, or hobby projects.
+* **Content Creation & Monetization:** You can show the Program in videos, live streams, short videos, screenshots, and reviews, and earn money from that content through advertising, sponsorships, memberships, and donations (provided you give proper credit).
+* **Voluntary Donations:** You may accept voluntary donations for your work, as long as every version is free to everyone, donating gives no special access or priority, and donations are not tied to downloads.
+* **Modification:** You can modify the Program and create versions based on it.
+* **Sharing Modified Versions:** You can share modified versions only for free, under this same license, with their complete source code open to everyone, with proper credit, and under a clearly new and different name.
+* **Sharing Exact Copies:** You can share exact copies of the Program by directing people to the Official Source.
+* **Giving Credit:** You can use the Program's name, author name, and official source link to provide required credits.
+
+### What You Cannot Do (-)
+* **Commercial Sale & Rental:** You cannot sell, rent, lease, or license the Program or any copy for a fee, or charge any price for access or downloads.
+* **Paywalled Access:** You cannot make the Program, or any version, feature, update, or early access, available only to people who pay through paid memberships, subscriptions, or donation tiers.
+* **Link Monetization:** You cannot convey the Program or its links through link-monetization services that force users to view advertisements or wait before downloading.
+* **Commercial Distribution of Modified Versions:** You cannot distribute modified versions for any commercial purpose or earn money from them.
+* **Sublicensing:** You cannot sublicense the Program under any circumstances.
+* **Hosting Official Copies Elsewhere:** You cannot host, mirror, or upload exact copies of the Program anywhere else except its Official Source (unless the version becomes abandoned).
+* **Endorsement Illusion:** You cannot suggest that the Licensor or contributors endorse you or your use without written permission.
+
+---
 
 <img width="2560" height="1362" alt="Screenshot_20260926_094316" src="https://github.com/user-attachments/assets/6acc4091-1c87-4548-97d4-f08a4100de8d" />
 
