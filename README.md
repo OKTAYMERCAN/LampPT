@@ -10,7 +10,7 @@ This project Path Traced Global illimunation shaderpack for minecraft (Iris). Pr
 
 This project Path Traced Global illimunation shaderpack for minecraft (Iris). Prof of Concept and Early alpha stage.
 
-I wanted to create my own shaderpack because the existing ones are either paid or locked behind paywalls or subscriptions, which is frustrating. I decided to make my own, but due to life circumstances, I didn't have the time or the necessary skills to do it from scratch. So I purchased a paid AI subscription (Claude Pro - Opus 5.5) and then started making LampPT to test how much the technology has advanced and what it's capable of, while also bringing my dream shaderpack to life to share with the community.
+I wanted to create my own shaderpack because the existing ones are either paid or locked behind paywalls or subscriptions, which is frustrating. I decided to make my own, but due to life circumstances, I didn't have the time or the necessary skills to do it from scratch. So I purchased a paid AI subscription (OpenAI Plus - GPT-6 Astra) and then started making LampPT to test how much the technology has advanced and what it's capable of, while also bringing my dream shaderpack to life to share with the community.
 
 ---
 
